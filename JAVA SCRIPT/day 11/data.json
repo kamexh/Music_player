@@ -1,0 +1,104 @@
+[
+    {
+        "id":"101",
+        "Name":"kamesh",
+        "Age":"20",
+        "skill":["HTML","CSS","JAVASCRIPT"],
+        "Personal Details" :{
+            "Address":["main street:HN"],
+            "City":"AMERICA"
+        }
+    },
+    {
+        "id":"102",
+        "Name":"HARIHARAN ",
+        "Age":"21",
+        "skill":["HTML","CSS","JAVASCRIPT"],
+        "Personal Details" :{
+            "Address":["main street:HN"],
+            "City":"LONDON"
+        }
+    },
+    {
+        "id":"103",
+        "Name":"DINESH ",
+        "Age":"19",
+        "skill":["HTML","CSS","JAVASCRIPT"],
+        "Personal Details" :{
+            "Address":["main street:HN"],
+            "City":"JAPAN"
+        }
+    },
+    {
+        "id":"104",
+        "Name":"KAMALESH ",
+        "Age":"40",
+        "skill":["HTML","CSS","JAVASCRIPT"],
+        "Personal Details" :{
+            "Address":["main street:HN"],
+            "City":"RAMESHWARAM"
+        }
+    },
+    {
+        "id":"105",
+        "Name":"MOHAN",
+        "Age":"90",
+        "skill":["HTML","CSS","JAVASCRIPT"],
+        "Personal Details" :{
+            "Address":["main street:HN"],
+            "City":"DHELI"
+        }
+    },
+    [
+        {
+            "id":"106",
+            "Name":"SARAVANAN",
+            "Age":"89",
+            "skill":["HTML","CSS","JAVASCRIPT"],
+            "Personal Details" :{
+                "Address":["main street:HN"],
+                "City":"KRISHNAGIRI"
+            }
+        },
+        {
+            "id":"107",
+            "Name":"SENTHIL",
+            "Age":"67",
+            "skill":["HTML","CSS","JAVASCRIPT"],
+            "Personal Details" :{
+                "Address":["main street:HN"],
+                "City":"AMBATTUR"
+            }
+        },
+        {
+            "id":"108",
+            "Name":"SUNDAR",
+            "Age":"47",
+            "skill":["HTML","CSS","JAVASCRIPT"],
+            "Personal Details" :{
+                "Address":["main street:HN"],
+                "City":"VADACHENNAI"
+            }
+        },
+        {
+            "id":"109",
+            "Name":"SRIDHARAN",
+            "Age":"45",
+            "skill":["HTML","CSS","JAVASCRIPT"],
+            "Personal Details" :{
+                "Address":["main street:HN"],
+                "City":"THIRICHI"
+            }
+        },
+        {
+            "id":"110",
+            "Name":"KANNAN",
+            "Age":"40",
+            "skill":["HTML","CSS","JAVASCRIPT"],
+            "Personal Details" :{
+                "Address":["main street:HN"],
+                "City":"THIRUTHANI"
+            }
+        }
+    ]
+]
